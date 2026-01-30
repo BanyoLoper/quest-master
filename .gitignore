@@ -1,0 +1,18 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+db.sqlite3
+media/
+
+# Node / Vue
+node_modules/
+dist/
+.DS_Store
+.vscode/
+
+# Logs
+*.log
